@@ -15,6 +15,6 @@ The data set that I selected for analysis is `twitter_archive_master` .The data 
 
 Visualization Data
 - In this project I have used different visualization techniques to communicate insight on the dataset.
-- You can see the Tableau Visualizations here and Tableau report [here]("https://public.tableau.com/profile/hindam#!/vizhome/WeRateDogs_story/Dog_Story").
+- You can see the Tableau Visualizations here and Tableau report [here](https://public.tableau.com/profile/hindam#!/vizhome/WeRateDogs_story/Dog_Story).
 
 [Tableau Report](https://hindamosh.github.io/create_tableau_story/)
